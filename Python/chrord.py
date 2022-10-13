@@ -1,0 +1,9 @@
+'''d={1:'a',2:'b',3:'3'}
+print(list(d))
+a='python'
+print(tuple(a))
+a=10
+b=20
+print(str(a)+str(b))'''
+print(ord("4"))
+print(chr(65))
